@@ -23,27 +23,36 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
 
-<p align="center">
-  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
-  <code><img title="Dart" height="25" src="images/dart.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
-  <code><img title="Firebase" height="25" src="images/supabase.svg"></code>
-  <code><img title="Bloc" height="25" src="images/bloc.svg"></code>
-  <code><img title="Clean Architecture" height="25" src="images/clean architecture.svg"></code>
-  <code><img title="REST API" height="25" src="images/REST APIs.svg"></code>
-  <code><img title="VS Code" height="25" src="images/googlemap.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Postman" height="25" src="images/postman.svg"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.svg"></code>
-  <code><img title="VS Code" height="25" src="images/android.svg"></code>
-  <code><img title="VS Code" height="25" src="images/ios.svg"></code>
-  <code><img title="VS Code" height="25" src="images/googlemap.svg"></code>
+<!-- Tech Stack & Tools CARD - Begin -->
+
+<div align="center" style="background:#23272f;padding:28px 6px 18px 6px;border-radius:18px;box-shadow:0 4px 20px #0001;margin-bottom:20px;">
+
+  <h2 style="color:#61dafb;margin-bottom:18px;font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;">🛠️ Tech Stack & Tools</h2>
   
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="32" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="32" alt="Dart"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="32" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="32" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/BLoC-21DEF7?style=for-the-badge&logo=bloc&logoColor=white" height="32" alt="BLoC"/>
+    <img src="https://img.shields.io/badge/Clean%20Architecture-1B2227?style=for-the-badge&logo=semanticweb&logoColor=white" height="32" alt="Clean Architecture"/>
+    <img src="https://img.shields.io/badge/REST%20API-011627?style=for-the-badge&logo=apollographql&logoColor=white" height="32" alt="REST API"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" alt="Postman"/>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32" alt="Figma"/>
+    <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="32" alt="Android"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" height="32" alt="iOS"/>
+    <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="32" alt="Google Maps"/>
+  </p>
+
+</div>
+
+<!-- Tech Stack & Tools CARD - End -->
+
+
 
 ---
 
