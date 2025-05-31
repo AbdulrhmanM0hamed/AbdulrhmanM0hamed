@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/abdulrhman-mohamed-080238251/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://drkomy.com" title="drKomy Team"><img width="22" src="images/drkomy.svg"> drKomy</a></code>
-  <code><a href="mailto:abdulrhman.mohamed.it@gmail.com"><img width="22" src="images/email.svg"> Email</a></code>
+  <code><a href="mailto:bodamohmed60@gmail.com"><img width="22" src="images/email.svg"> Email</a></code>
 </h5>
 
 <br>
