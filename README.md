@@ -29,14 +29,20 @@
   <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
   <code><img title="Dart" height="25" src="images/dart.svg"></code>
   <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img title="Firebase" height="25" src="images/supabase.svg"></code>
   <code><img title="Bloc" height="25" src="images/bloc.svg"></code>
-  <code><img title="Clean Architecture" height="25" src="images/clean_architecture.svg"></code>
-  <code><img title="REST API" height="25" src="images/api.svg"></code>
+  <code><img title="Clean Architecture" height="25" src="images/clean architecture.svg"></code>
+  <code><img title="REST API" height="25" src="images/REST APIs"></code>
+  <code><img title="VS Code" height="25" src="images/googlemap.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="Postman" height="25" src="images/postman.svg"></code>
   <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="VS Code" height="25" src="images/vscode.svg"></code>
+  <code><img title="VS Code" height="25" src="images/android.svg"></code>
+  <code><img title="VS Code" height="25" src="images/ios.svg"></code>
+  <code><img title="VS Code" height="25" src="images/googlemap.svg"></code>
+  
 </p>
 
 ---
