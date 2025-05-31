@@ -32,7 +32,7 @@
   <code><img title="Firebase" height="25" src="images/supabase.svg"></code>
   <code><img title="Bloc" height="25" src="images/bloc.svg"></code>
   <code><img title="Clean Architecture" height="25" src="images/clean architecture.svg"></code>
-  <code><img title="REST API" height="25" src="images/REST APIs"></code>
+  <code><img title="REST API" height="25" src="images/REST APIs.svg"></code>
   <code><img title="VS Code" height="25" src="images/googlemap.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
