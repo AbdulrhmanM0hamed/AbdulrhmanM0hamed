@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  👋 I'm <strong>Abdulrhman Mohamed</strong>, a passionate <strong>Flutter Developer</strong> with 2.5+ years of experience building scalable and elegant cross-platform applications.<br>
+  👋 I'm <strong>Abdulrhman Mohamed</strong>, a passionate <strong>Flutter Developer</strong> with 3 years of experience building scalable and elegant cross-platform applications.<br>
   💼 Founder of <a href="https://drkomy.com">drKomy for Software Solutions</a> — turning innovative ideas into real digital products.<br>
   🎓 BSc in Software Engineering (IT Department)<br>
   🚀 Always eager to learn new technologies and deliver impactful solutions.
