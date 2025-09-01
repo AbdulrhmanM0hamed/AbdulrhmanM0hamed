@@ -81,8 +81,8 @@
   <a href="https://github.com/AbdulrhmanM0hamed/Reef-Coffe">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Reef-Coffe&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/AbdulrhmanM0hamed/beat_elslam">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=beat_elslam&theme=react&border_color=61dafb&border_radius=10">
+  <a href="https://github.com/AbdulrhmanM0hamed/el-nor">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=el-nor&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
