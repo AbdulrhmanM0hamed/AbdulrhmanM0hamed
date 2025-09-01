@@ -74,34 +74,75 @@
 
 ## 🚀 Highlighted Projects
 
-
-
-
+<!-- Reef Coffee -->
 <div align="center">
   <a href="https://github.com/AbdulrhmanM0hamed/Reef-Coffe">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Reef-Coffe&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Reef-Coffe&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/AbdulrhmanM0hamed/el-nor">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=el-nor&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  <p align="left">
+    <strong>Reef Coffee Restaurant App</strong> — <a href="https://shorturl.at/byqwJ">App Link</a><br>
+    <em>Flutter, Supabase, BLoC, Clean Architecture, SOLID | Oct 2024 – Nov 2024</em><br>
+    Developed a mobile ordering app and admin dashboard for a Saudi-based healthy restaurant.<br>
+    Integrated Supabase for authentication, database, and file storage.<br>
+    Enabled real-time meal browsing, nutrition tracking, and order management.
+  </p>
 </div>
 
-<br/><br/><br/><br/><br/>
-<br/><br/>
+---
+
+<!-- Multaqa Al-Noor -->
+<div align="center">
+  <a href="https://github.com/AbdulrhmanM0hamed/el-nor">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=el-nor&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="left">
+    <strong>Multaqa Al-Noor (ﻲﻧآﺮﻘﻟا رﻮﻨﻟا ﻰﻘﺘﻠﻣ)</strong> — <a href="https://shorturl.at/55Bml">App Link</a><br>
+    <em>Flutter, Firebase Notifications, Vercel Server, MVVM, Cubit | May 2025 – Jun 2025</em><br>
+    Developed a comprehensive Islamic app offering the Qur’an, daily Azkar, prayer times, Qibla direction, Hadiths, and more.<br>
+    Added system for Quran memorization sessions, assigning teachers/students, uploading study plans (PDF), and progress evaluation.<br>
+    Integrated Firebase notifications and server-side logic deployed on Vercel.
+  </p>
+</div>
+
+---
+
+<!-- Beautilly -->
 <div align="center">
   <a href="https://github.com/AbdulrhmanM0hamed/Beautilly">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Beautilly&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Beautilly&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="https://github.com/AbdulrhmanM0hamed/moazez">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=moazez&theme=react&border_color=61dafb&border_radius=10">
-  </a>
+  <p align="left">
+    <strong>Dallik App</strong> — <a href="https://shorturl.at/xb7o5">App Link</a><br>
+    <em>Flutter, BLoC, Clean Architecture, Google Maps API, SOLID | Jan 2025 – Mar 2025</em><br>
+    Built a booking and services app for beauty salons and fashion houses in Saudi Arabia.<br>
+    Collaborated with backend and web teams; integrated scalable API endpoints.<br>
+    Implemented location services using Google Maps API.<br>
+    Employed BLoC and Clean Architecture for maintainable and testable code.
+  </p>
 </div>
 
-<br/><br/><br/><br/><br/>
+---
+
+<!-- Moazez -->
+<div align="center">
+  <a href="https://github.com/AbdulrhmanM0hamed/moazez">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=moazez&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <p align="left">
+    <strong>Moazez App</strong> — <a href="https://shorturl.at/mVFxE">App Link</a><br>
+    <em>Flutter, Project Management, UI/UX Supervision, Laravel Backend | Jun 2025 – Jul 2025</em><br>
+    Led the development and implementation of Moazez, a motivation and habit-building platform designed to foster personal growth and goal achievement.<br>
+    Managed full development lifecycle, coordinated with UI/UX designers and Laravel backend developers, and implemented the mobile frontend.<br>
+    App allows users to assign goals, track progress, and deliver rewards (material or symbolic) in a structured, engaging environment.
+  </p>
+</div>
+
+---
 
 <h4 align="center">
   <a href="https://github.com/AbdulrhmanM0hamed?tab=repositories" title="Show More Repos">🔎 Show More 🔍</a>
 </h4>
+
 
 ---
 
