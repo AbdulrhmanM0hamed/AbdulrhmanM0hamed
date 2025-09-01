@@ -92,7 +92,7 @@
   <a href="https://github.com/AbdulrhmanM0hamed/Beautilly">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=Beautilly&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a href="[https://github.com/AbdulrhmanM0hamed/Web_Dashboard_Supabase](https://github.com/AbdulrhmanM0hamed/moazez)">
+  <a href="https://github.com/AbdulrhmanM0hamed/moazez">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=moazeze&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
