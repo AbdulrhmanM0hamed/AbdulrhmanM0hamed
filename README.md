@@ -96,7 +96,7 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulrhmanM0hamed&repo=el-nor&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <p align="left">
-    <strong>Multaqa Al-Noor (ﻲﻧآﺮﻘﻟا رﻮﻨﻟا ﻰﻘﺘﻠﻣ)</strong> — <a href="https://shorturl.at/55Bml">App Link</a><br>
+    <strong>Multaqa Al-Noor (ملفتى النور القرآني)</strong> — <a href="https://shorturl.at/55Bml">App Link</a><br>
     <em>Flutter, Firebase Notifications, Vercel Server, MVVM, Cubit | May 2025 – Jun 2025</em><br>
     Developed a comprehensive Islamic app offering the Qur’an, daily Azkar, prayer times, Qibla direction, Hadiths, and more.<br>
     Added system for Quran memorization sessions, assigning teachers/students, uploading study plans (PDF), and progress evaluation.<br>
